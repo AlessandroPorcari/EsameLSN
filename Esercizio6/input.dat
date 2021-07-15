@@ -1,0 +1,23 @@
+0.5
+50
+1.0
+0
+1
+20
+20000
+0
+0
+31
+200
+
+  ReadInput >> temp;
+  ReadInput >> nspin;
+  ReadInput >> J;
+  ReadInput >> h;
+  ReadInput >> metro;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> equilibration;
+  ReadInput >> conf_final;
+  ReadInput >> ntemp;
+  ReadInput >> step_equi;
